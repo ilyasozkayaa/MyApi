@@ -35,7 +35,7 @@ namespace MyApi.Controllers
     //public IActionResult Index()
     //{//////
     //    return View();
-    //}
+    //}///////
     [Route("ConfirmUser")]
     [HttpPost]
     public IActionResult ConfirmUser(string userId)
