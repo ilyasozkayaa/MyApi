@@ -32,9 +32,9 @@ namespace MyApi.Controllers
       _RepoU = repoU;
 
     }
-    //public IActionResult Index()
-    //{////// safasfasfafdsdfsdf/////
-    //    return View();osman
+    //public IActionResult Index()gjh bbbvbvbbbbbbbb mm
+    //{////// safasfasfafdsdfsdf/////hkhkjhgghghvhgjgjhghjgjgjh
+    //    return View();osmanhjjhjhjhhkhjkvvvvvvvmhvmhv
     //}///////
     [Route("ConfirmUser")]
     [HttpPost]
