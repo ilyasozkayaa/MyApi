@@ -33,7 +33,7 @@ namespace MyApi.Controllers
 
     }
     //public IActionResult Index()
-    //{
+    //{//////
     //    return View();
     //}
     [Route("ConfirmUser")]
