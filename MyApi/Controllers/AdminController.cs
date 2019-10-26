@@ -33,8 +33,8 @@ namespace MyApi.Controllers
 
     }
     //public IActionResult Index()
-    //{////// safasfasfafdsdfsdf gtregdfgfdg
-    //    return View();
+    //{////// safasfasfafdsdfsdf/////
+    //    return View();osman
     //}///////
     [Route("ConfirmUser")]
     [HttpPost]
